@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Copy of Soulingo",
+  "description": "A multimodal AI language learning platform featuring real-time voice conversation, video lesson generation, and smart image editing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
